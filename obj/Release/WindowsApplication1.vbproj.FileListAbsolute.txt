@@ -1,0 +1,7 @@
+C:\Users\USER\Downloads\New folder\obj\Release\$safeprojectname$.Home.resources
+C:\Users\USER\Downloads\New folder\obj\Release\$safeprojectname$.Hadit.resources
+C:\Users\USER\Downloads\New folder\obj\Release\$safeprojectname$.Resources.resources
+C:\Users\USER\Downloads\New folder\obj\Release\$safeprojectname$.Spesial.resources
+C:\Users\USER\Downloads\New folder\obj\Release\$safeprojectname$.tugas1.resources
+C:\Users\USER\Downloads\New folder\obj\Release\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\USER\Downloads\New folder\obj\Release\WindowsApplication1.vbproj.CoreCompileInputs.cache

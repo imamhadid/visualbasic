@@ -1,0 +1,254 @@
+C:\Users\USER\Downloads\New folder\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\USER\Downloads\New folder\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\USER\Downloads\New folder\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\New folder\obj\Debug\Hadit.Home.resources
+C:\Users\USER\Downloads\New folder\obj\Debug\Hadit.Hadit.resources
+C:\Users\USER\Downloads\New folder\obj\Debug\Hadit.Resources.resources
+C:\Users\USER\Downloads\New folder\obj\Debug\Hadit.Spesial.resources
+C:\Users\USER\Downloads\New folder\obj\Debug\Hadit.tugas1.resources
+C:\Users\USER\Downloads\New folder\bin\Debug\Hadit.exe.config
+C:\Users\USER\Downloads\New folder\bin\Debug\Hadit.exe
+C:\Users\USER\Downloads\New folder\bin\Debug\Hadit.pdb
+C:\Users\USER\Downloads\New folder\bin\Debug\Hadit.xml
+C:\Users\USER\Downloads\New folder\obj\Debug\Hadit.exe
+C:\Users\USER\Downloads\New folder\obj\Debug\Hadit.xml
+C:\Users\USER\Downloads\New folder\obj\Debug\Hadit.pdb
+C:\Users\USER\Downloads\New folder\obj\Debug\Hadit.Login.resources
+C:\Users\USER\Downloads\New folder\obj\Debug\Hadit.Tugas2.resources
+C:\Users\User\Documents\Visual Studio 2019\hadit\bin\Debug\Hadit.exe.config
+C:\Users\User\Documents\Visual Studio 2019\hadit\bin\Debug\Hadit.exe
+C:\Users\User\Documents\Visual Studio 2019\hadit\bin\Debug\Hadit.pdb
+C:\Users\User\Documents\Visual Studio 2019\hadit\bin\Debug\Hadit.xml
+C:\Users\User\Documents\Visual Studio 2019\hadit\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2019\hadit\obj\Debug\Hadit.Home.resources
+C:\Users\User\Documents\Visual Studio 2019\hadit\obj\Debug\Hadit.Hadit.resources
+C:\Users\User\Documents\Visual Studio 2019\hadit\obj\Debug\Hadit.Login.resources
+C:\Users\User\Documents\Visual Studio 2019\hadit\obj\Debug\Hadit.Resources.resources
+C:\Users\User\Documents\Visual Studio 2019\hadit\obj\Debug\Hadit.Spesial.resources
+C:\Users\User\Documents\Visual Studio 2019\hadit\obj\Debug\Hadit.tugas1.resources
+C:\Users\User\Documents\Visual Studio 2019\hadit\obj\Debug\Hadit.Tugas2.resources
+C:\Users\User\Documents\Visual Studio 2019\hadit\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2019\hadit\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2019\hadit\obj\Debug\Hadit.exe
+C:\Users\User\Documents\Visual Studio 2019\hadit\obj\Debug\Hadit.xml
+C:\Users\User\Documents\Visual Studio 2019\hadit\obj\Debug\Hadit.pdb
+C:\Users\User\Documents\Visual Studio 2019\hadit\obj\Debug\Hadit.Form2.resources
+C:\Users\User\Documents\Visual Studio 2019\hadit\obj\Debug\Hadit.Form3.resources
+C:\Users\LAB\Documents\Visual Studio 2012\hadit\bin\Debug\Hadit.exe.config
+C:\Users\LAB\Documents\Visual Studio 2012\hadit\obj\Debug\Hadit.exe
+C:\Users\LAB\Documents\Visual Studio 2012\hadit\obj\Debug\Hadit.xml
+C:\Users\LAB\Documents\Visual Studio 2012\hadit\obj\Debug\Hadit.pdb
+C:\Users\LAB\Documents\Visual Studio 2012\hadit\bin\Debug\Hadit.exe
+C:\Users\LAB\Documents\Visual Studio 2012\hadit\bin\Debug\Hadit.pdb
+C:\Users\LAB\Documents\Visual Studio 2012\hadit\bin\Debug\Hadit.xml
+C:\Users\LAB\Documents\Visual Studio 2012\hadit\obj\Debug\Hadit.Home.resources
+C:\Users\LAB\Documents\Visual Studio 2012\hadit\obj\Debug\Hadit.Hadit.resources
+C:\Users\LAB\Documents\Visual Studio 2012\hadit\obj\Debug\Hadit.Form2.resources
+C:\Users\LAB\Documents\Visual Studio 2012\hadit\obj\Debug\Hadit.Form3.resources
+C:\Users\LAB\Documents\Visual Studio 2012\hadit\obj\Debug\Hadit.Login.resources
+C:\Users\LAB\Documents\Visual Studio 2012\hadit\obj\Debug\Hadit.Resources.resources
+C:\Users\LAB\Documents\Visual Studio 2012\hadit\obj\Debug\Hadit.Spesial.resources
+C:\Users\LAB\Documents\Visual Studio 2012\hadit\obj\Debug\Hadit.tugas1.resources
+C:\Users\LAB\Documents\Visual Studio 2012\hadit\obj\Debug\Hadit.Tugas2.resources
+C:\Users\LAB\Documents\Visual Studio 2012\hadit\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\LAB\Documents\Visual Studio 2012\hadit\obj\Debug\Hadit.gamexox.resources
+C:\Users\LAB\Documents\Visual Studio 2012\Projects\hadit\bin\Debug\Hadit.exe.config
+C:\Users\LAB\Documents\Visual Studio 2012\Projects\hadit\obj\Debug\Hadit.exe
+C:\Users\LAB\Documents\Visual Studio 2012\Projects\hadit\obj\Debug\Hadit.xml
+C:\Users\LAB\Documents\Visual Studio 2012\Projects\hadit\obj\Debug\Hadit.pdb
+C:\Users\LAB\Documents\Visual Studio 2012\Projects\hadit\bin\Debug\Hadit.exe
+C:\Users\LAB\Documents\Visual Studio 2012\Projects\hadit\bin\Debug\Hadit.pdb
+C:\Users\LAB\Documents\Visual Studio 2012\Projects\hadit\bin\Debug\Hadit.xml
+C:\Users\LAB\Documents\Visual Studio 2012\Projects\hadit\obj\Debug\Hadit.Home.resources
+C:\Users\LAB\Documents\Visual Studio 2012\Projects\hadit\obj\Debug\Hadit.Hadit.resources
+C:\Users\LAB\Documents\Visual Studio 2012\Projects\hadit\obj\Debug\Hadit.Form2.resources
+C:\Users\LAB\Documents\Visual Studio 2012\Projects\hadit\obj\Debug\Hadit.Form3.resources
+C:\Users\LAB\Documents\Visual Studio 2012\Projects\hadit\obj\Debug\Hadit.gamexox.resources
+C:\Users\LAB\Documents\Visual Studio 2012\Projects\hadit\obj\Debug\Hadit.Login.resources
+C:\Users\LAB\Documents\Visual Studio 2012\Projects\hadit\obj\Debug\Hadit.Resources.resources
+C:\Users\LAB\Documents\Visual Studio 2012\Projects\hadit\obj\Debug\Hadit.Spesial.resources
+C:\Users\LAB\Documents\Visual Studio 2012\Projects\hadit\obj\Debug\Hadit.tugas1.resources
+C:\Users\LAB\Documents\Visual Studio 2012\Projects\hadit\obj\Debug\Hadit.Tugas2.resources
+C:\Users\LAB\Documents\Visual Studio 2012\Projects\hadit\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\LAB\Documents\Visual Studio 2012\Projects\hadit\obj\Debug\Hadit.game.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\Hadit.exe.config
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\Hadit.exe
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\Hadit.pdb
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\Hadit.xml
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.Home.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.Hadit.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.Form2.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.Form3.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.Form4.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.game.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.gamexox.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.Login.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.Resources.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.Spesial.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.tugas1.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.Tugas2.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.exe
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.xml
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.pdb
+C:\Users\LAB\Documents\hadit\bin\Debug\Hadit.exe.config
+C:\Users\LAB\Documents\hadit\obj\Debug\Hadit.exe
+C:\Users\LAB\Documents\hadit\obj\Debug\Hadit.xml
+C:\Users\LAB\Documents\hadit\obj\Debug\Hadit.pdb
+C:\Users\LAB\Documents\hadit\bin\Debug\Hadit.exe
+C:\Users\LAB\Documents\hadit\bin\Debug\Hadit.pdb
+C:\Users\LAB\Documents\hadit\bin\Debug\Hadit.xml
+C:\Users\LAB\Documents\hadit\obj\Debug\Hadit.Home.resources
+C:\Users\LAB\Documents\hadit\obj\Debug\Hadit.Hadit.resources
+C:\Users\LAB\Documents\hadit\obj\Debug\Hadit.Form2.resources
+C:\Users\LAB\Documents\hadit\obj\Debug\Hadit.Form3.resources
+C:\Users\LAB\Documents\hadit\obj\Debug\Hadit.Form4.resources
+C:\Users\LAB\Documents\hadit\obj\Debug\Hadit.game.resources
+C:\Users\LAB\Documents\hadit\obj\Debug\Hadit.gamexox.resources
+C:\Users\LAB\Documents\hadit\obj\Debug\Hadit.Login.resources
+C:\Users\LAB\Documents\hadit\obj\Debug\Hadit.Resources.resources
+C:\Users\LAB\Documents\hadit\obj\Debug\Hadit.Spesial.resources
+C:\Users\LAB\Documents\hadit\obj\Debug\Hadit.tugas1.resources
+C:\Users\LAB\Documents\hadit\obj\Debug\Hadit.Tugas2.resources
+C:\Users\LAB\Documents\hadit\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\LAB\Documents\hadit\obj\Debug\Hadit.praktikum6.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.Form3Operator.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.praktikum6.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.foreach.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.prak8.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.prak8dowhile.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.prak8while.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.array1dimensi.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.arraymultidimensi.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.prak10.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.function10.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.exe.config
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\Hadit.praktikum11db.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\dbHadit1.accdb
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\My Project\Database1.mdf
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\My Project\Database1_log.ldf
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\Microsoft.Build.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\System.Text.Json.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\System.Memory.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\System.Buffers.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\obj\Debug\WindowsApplication1.vbproj.CopyComplete
+E:\Adobe Flash Profesional CS 6\hadit\hadit\bin\Debug\Hadit.exe.config
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.exe
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.xml
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.pdb
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.array1dimensi.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.arraymultidimensi.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.Home.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.foreach.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.Hadit.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.Form2.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.Form3.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.Form4.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.function10.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.game.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.gamexox.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.Login.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.Resources.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.prak10.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.prak8.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.prak8dowhile.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.prak8while.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.praktikum11db.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.Form3Operator.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.praktikum6.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.Spesial.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.tugas1.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.Tugas2.resources
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Adobe Flash Profesional CS 6\hadit\hadit\bin\Debug\dbHadit1.accdb
+E:\Adobe Flash Profesional CS 6\hadit\hadit\bin\Debug\My Project\Database1.mdf
+E:\Adobe Flash Profesional CS 6\hadit\hadit\bin\Debug\My Project\Database1_log.ldf
+E:\Adobe Flash Profesional CS 6\hadit\hadit\bin\Debug\Hadit.exe
+E:\Adobe Flash Profesional CS 6\hadit\hadit\bin\Debug\Hadit.pdb
+E:\Adobe Flash Profesional CS 6\hadit\hadit\bin\Debug\Hadit.xml
+E:\Adobe Flash Profesional CS 6\hadit\hadit\obj\Debug\Hadit.pesanrahasia.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\bin\Debug\dbHadit1.accdb
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\bin\Debug\My Project\Database1.mdf
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\bin\Debug\My Project\Database1_log.ldf
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\bin\Debug\Hadit.exe.config
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\bin\Debug\Hadit.exe
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\bin\Debug\Hadit.pdb
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\bin\Debug\Hadit.xml
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.array1dimensi.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.arraymultidimensi.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.Home.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.foreach.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.Hadit.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.Form2.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.Form3.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.Form4.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.function10.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.game.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.gamexox.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.Login.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.Resources.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.pesanrahasia.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.prak10.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.prak8.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.prak8dowhile.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.prak8while.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.praktikum11db.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.Form3Operator.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.praktikum3modulbook.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.praktikum6.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.Spesial.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.tugas1.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.Tugas2.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.exe
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.xml
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.pdb
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.frmlatihan.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.matauang.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.Note.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.timer.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.tokobuah.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.vlokal.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.pencabangan.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.pencabanganif.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.pengulangan_2.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.pengulangan.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.pengulangan1.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.vglobal.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.foreach1.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.pratice1.resources
+C:\Users\User\Documents\DATA\Kampus\Smster 2\program visual\hadit\hadit\obj\Debug\Hadit.pratice2.resources

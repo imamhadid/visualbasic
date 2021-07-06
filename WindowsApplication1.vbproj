@@ -1,0 +1,554 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{849C63D6-DC48-49DA-AC32-1D375747A3AC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Hadit.My.MyApplication</StartupObject>
+    <RootNamespace>Hadit</RootNamespace>
+    <AssemblyName>Hadit</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Hadit.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Hadit.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>action_assassins_creed_game_video_icon_183192.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="array1dimensi.Designer.vb">
+      <DependentUpon>array1dimensi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="array1dimensi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arraymultidimensi.Designer.vb">
+      <DependentUpon>arraymultidimensi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="arraymultidimensi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Branda.Designer.vb">
+      <DependentUpon>Branda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Branda.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dbHadit1DataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbHadit1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="fordiulang.Designer.vb">
+      <DependentUpon>fordiulang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fordiulang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="foreach.Designer.vb">
+      <DependentUpon>foreach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="foreach.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="foreach1.Designer.vb">
+      <DependentUpon>foreach1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="foreach1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.vb">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlatihan.Designer.vb">
+      <DependentUpon>frmlatihan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmlatihan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="function10.Designer.vb">
+      <DependentUpon>function10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="function10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="game.Designer.vb">
+      <DependentUpon>game.vb</DependentUpon>
+    </Compile>
+    <Compile Include="game.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gamexox.Designer.vb">
+      <DependentUpon>gamexox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="gamexox.vb" />
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main.vb" />
+    <Compile Include="matauang.Designer.vb">
+      <DependentUpon>matauang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="matauang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\dbMhs.vb">
+      <SubType>Designer</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Note.Designer.vb">
+      <DependentUpon>Note.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Note.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pencabangan.Designer.vb">
+      <DependentUpon>pencabangan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pencabangan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pencabanganif.Designer.vb">
+      <DependentUpon>pencabanganif.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pencabanganif.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pengulangan 2.Designer.vb">
+      <DependentUpon>pengulangan 2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pengulangan 2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pengulangan.Designer.vb">
+      <DependentUpon>pengulangan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pengulangan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pengulangan1.Designer.vb">
+      <DependentUpon>pengulangan1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pengulangan1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pesanrahasia.Designer.vb">
+      <DependentUpon>pesanrahasia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pesanrahasia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="prak10.Designer.vb">
+      <DependentUpon>prak10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="prak10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="prak8.Designer.vb">
+      <DependentUpon>prak8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="prak8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="prak8dowhile.Designer.vb">
+      <DependentUpon>prak8dowhile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="prak8dowhile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="prak8while.Designer.vb">
+      <DependentUpon>prak8while.vb</DependentUpon>
+    </Compile>
+    <Compile Include="prak8while.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="praktikum11db.Designer.vb">
+      <DependentUpon>praktikum11db.vb</DependentUpon>
+    </Compile>
+    <Compile Include="praktikum11db.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="praktikum2.Designer.vb">
+      <DependentUpon>praktikum2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="praktikum2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="praktikum3modulbook.Designer.vb">
+      <DependentUpon>praktikum3modulbook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="praktikum3modulbook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="praktikum6.Designer.vb">
+      <DependentUpon>praktikum6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="praktikum6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pratice1.Designer.vb">
+      <DependentUpon>pratice1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pratice1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pratice2.Designer.vb">
+      <DependentUpon>pratice2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pratice2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Spesial.Designer.vb">
+      <DependentUpon>Spesial.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Spesial.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SqlDatabaseSetup.vb" />
+    <Compile Include="SqlServerUnitTest1.vb">
+      <SubType>Designer</SubType>
+    </Compile>
+    <Compile Include="timer.Designer.vb">
+      <DependentUpon>timer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="timer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tokobuah.Designer.vb">
+      <DependentUpon>tokobuah.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tokobuah.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tugas1.Designer.vb">
+      <DependentUpon>tugas1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tugas1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tugas2.Designer.vb">
+      <DependentUpon>Tugas2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tugas2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vglobal.Designer.vb">
+      <DependentUpon>vglobal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vglobal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vlokal.Designer.vb">
+      <DependentUpon>vlokal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vlokal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="array1dimensi.resx">
+      <DependentUpon>array1dimensi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arraymultidimensi.resx">
+      <DependentUpon>arraymultidimensi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Branda.resx">
+      <DependentUpon>Branda.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="foreach.resx">
+      <DependentUpon>foreach.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="foreach1.resx">
+      <DependentUpon>foreach1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlatihan.resx">
+      <DependentUpon>frmlatihan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="function10.resx">
+      <DependentUpon>function10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="game.resx">
+      <DependentUpon>game.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gamexox.resx">
+      <DependentUpon>gamexox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="matauang.resx">
+      <DependentUpon>matauang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Note.resx">
+      <DependentUpon>Note.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pencabangan.resx">
+      <DependentUpon>pencabangan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pencabanganif.resx">
+      <DependentUpon>pencabanganif.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pengulangan 2.resx">
+      <DependentUpon>pengulangan 2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pengulangan.resx">
+      <DependentUpon>pengulangan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pengulangan1.resx">
+      <DependentUpon>pengulangan1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pesanrahasia.resx">
+      <DependentUpon>pesanrahasia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="prak10.resx">
+      <DependentUpon>prak10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="prak8.resx">
+      <DependentUpon>prak8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="prak8dowhile.resx">
+      <DependentUpon>prak8dowhile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="prak8while.resx">
+      <DependentUpon>prak8while.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="praktikum11db.resx">
+      <DependentUpon>praktikum11db.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="praktikum2.resx">
+      <DependentUpon>praktikum2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="praktikum3modulbook.resx">
+      <DependentUpon>praktikum3modulbook.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="praktikum6.resx">
+      <DependentUpon>praktikum6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pratice1.resx">
+      <DependentUpon>pratice1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pratice2.resx">
+      <DependentUpon>pratice2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Spesial.resx">
+      <DependentUpon>Spesial.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timer.resx">
+      <DependentUpon>timer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tokobuah.resx">
+      <DependentUpon>tokobuah.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tugas1.resx">
+      <DependentUpon>tugas1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tugas2.resx">
+      <DependentUpon>Tugas2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vglobal.resx">
+      <DependentUpon>vglobal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vlokal.resx">
+      <DependentUpon>vlokal.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="dbHadit1DataSet.xsc">
+      <DependentUpon>dbHadit1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbHadit1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbHadit1DataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbHadit1DataSet.xss">
+      <DependentUpon>dbHadit1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="action_assassins_creed_game_video_icon_183192.ico" />
+    <Content Include="dbHadit1.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="My Project\Database1.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="My Project\Database1_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Database1.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
